@@ -9,11 +9,11 @@
 }
 :root{
     --color-white:#ffffff;
-    --color-light:#828282;
+    --color-light:#b51ea3;
     --color-primary:#12e12e;
-    --color-dark:#212121;
+    --color-dark:#442fa9;
     --color-border:#7e686895;
-    --color-bg:#171717;
+    --color-bg:#333;
 
 }
 body{
