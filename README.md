@@ -24,21 +24,6 @@ A **personal portfolio website** built using **Flask**, **HTML/CSS/JavaScript**,
 |--------------|-------------------|
 | Frontend     | HTML, CSS, JavaScript |
 | Backend      | Flask (Python)       |
-| Database     | MySQL (optional or future) |
+| Database     | MySQL  |
 
 ---
-
-## 📁 Folder Structure
-my_blog/
-├── app.py # Flask main application
-├── requirements.txt # Python dependencies
-├── LICENSE # License file
-├── README.md # This file
-├── database/ # MySQL-related files (optional)
-├── static/ # Static files (CSS, JS, images)
-│ ├── css/
-│ ├── js/
-│ └── images/
-├── templates/ # HTML templates (Jinja2)
-│ ├── protofolio.html # Main portfolio page
-│ ├── *.png / *.jpg # Icons/images
